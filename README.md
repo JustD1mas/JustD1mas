@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JustD1mas
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on [Eirenis-GNU-Linux](https://github.com/Eirenis-GNU-Linux)
+- 👉 I’m looking to collaborate on [Eirenis-GNU-Linux](https://github.com/Eirenis-GNU-Linux)
 - 📫 How to reach me dimakmentsynskyi@gmail.com
 
 <!---
