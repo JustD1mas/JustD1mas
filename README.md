@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JustD1mas
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 👉 I’m looking to collaborate on [VodograyOS](https://github.com/VodograyOS)
 - 📫 How to reach me dimakmentsynskyi@gmail.com
 
